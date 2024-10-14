@@ -1,2 +1,2 @@
-git init --Initialiazes a git repository
-
+git init -- Initialiazes a git repository
+git status -- Check the status of your repository
